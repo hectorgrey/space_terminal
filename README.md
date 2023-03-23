@@ -1,2 +1,2 @@
-# space_terminal
-A space game intended to be played on the terminal
+# Space Terminal
+A space game intended to be played on the terminal (working title)
